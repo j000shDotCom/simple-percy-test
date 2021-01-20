@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/j000shDotCom/simple-percy-test/issues"
   },
-  "homepage": "https://github.com/j000shDotCom/simple-percy-test#readme"
+  "homepage": "https://github.com/j000shDotCom/simple-percy-test#readme",
+  "dependencies": {
+    "@percy/script": "^1.1.0"
+  }
 }
